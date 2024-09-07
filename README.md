@@ -11,7 +11,7 @@
 # running project menggunakan vs code 
 # g++ -std=c++17 -o main tugasbagian2.cpp && ./main
 
-#buat file task.json di dalam .vscode
+#buat file task.json di dalam .vscode <br>
 {
     "version": "2.0.0",
     "tasks": [
@@ -35,7 +35,7 @@
     ]
 }
 
-#edit launch.json
+#edit launch.json <br>
 {
   "version": "0.2.0",
   "configurations": [
